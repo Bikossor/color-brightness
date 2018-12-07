@@ -1,0 +1,26 @@
+{
+  "name": "color-brightness",
+  "version": "1.0.0",
+  "description": "Calculates the perceived brightness of a color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikossor/color-brightness.git"
+  },
+  "keywords": [
+    "color",
+    "brightness",
+    "lightness",
+    "percieved",
+    "colors"
+  ],
+  "author": "André Lichtenthäler",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bikossor/color-brightness/issues"
+  },
+  "homepage": "https://github.com/Bikossor/color-brightness#readme"
+}
